@@ -6,3 +6,4 @@ class Cat
    puts "meow"
   end 
     
+mauri. Cat.new
