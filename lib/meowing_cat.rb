@@ -6,4 +6,6 @@ class Cat
    puts "meow"
   end 
     
-mauri. Cat.new
+mauri= Cat.new
+mauri.name= "Mauri"
+mauri.meow
