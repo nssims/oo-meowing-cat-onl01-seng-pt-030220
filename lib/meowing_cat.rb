@@ -10,7 +10,7 @@ class Cat
 end 
 
 class Cat 
-  attr_accessor:meow
-  def puts "meow!"
+  def meow
+   puts "meow!"
   end 
     
