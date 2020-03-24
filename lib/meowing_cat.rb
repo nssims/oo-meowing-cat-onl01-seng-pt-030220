@@ -11,6 +11,6 @@ end
 
 class Cat 
   attr_accessor:meow
-  def puts "meow!#{@name}"
+  def puts "meow!"
   end 
     
