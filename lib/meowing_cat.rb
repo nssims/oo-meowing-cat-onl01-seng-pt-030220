@@ -5,7 +5,9 @@ class Cat
   def meow
    puts "meow"
   end 
+  
+end
     
-mauri= Cat.new
-mauri.name= "Mauri"
-mauri.meow
+maru= Cat.new
+maru.name= "Maru"
+maru.meow
