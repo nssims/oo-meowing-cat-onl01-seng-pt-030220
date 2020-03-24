@@ -10,5 +10,5 @@ class Cat
 end 
 
 class Cat 
-  attr_accessor:name
-  def 
+  attr_accessor:meow
+  def meow
